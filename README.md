@@ -42,4 +42,6 @@ ex016- Crie um algoritmo que peça a altura e o peso de uma pessoa. Calcule o IM
 ex017- Solicite o nome, e-mail, rg e cpf da pessoa. Faça uma validação simples para verificar se todos os campos foram preenchidos.
 
 ex018- O IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. A fórmula é IMC = peso / ( altura )² Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua condição de acordo com a tabela abaixo.
-![Tabela de classificacao do IMC](https://github.com/renatorrocha/Logica-Foursys/blob/main/Tabela-IMC.png)
+<p align="center">
+  <img src="https://github.com/renatorrocha/Logica-Foursys/blob/main/Tabela-IMC.png" alt="Tabela de classificação do IMC"/>
+</p>
