@@ -3,6 +3,7 @@ Exercícios de logica de programação em portugol ministrados pela equipe da Fo
 
 
 Exercicios:
+
 ex001- Leia as medidas(b, h) de um retângulo. Escreva a
 área calculada.
 
