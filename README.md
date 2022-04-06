@@ -59,10 +59,22 @@ Código - Condição de pagamento - Desconto/Juros:
 ● 3 - Em duas vezes - sem desconto/juros
 ● 4 - Em seis vezes - juros de 10%
 
-ex022-
+ex023- Solicite um número de 1 a 12 e informe o mês escolhido por extenso.
 
-ex022-
+ex024- Solicite um número de 0 a 6 e informe o dia da semana por extenso.
 
-ex022-
+ex025- Solicite um animal e mostre em inglês. (Ex.: gato, cachorro, etc..)
 
-ex022-
+ex026- Mostre o seu nome 7 vezes na tela.
+
+ex027- Conte de 1 até 20.
+
+ex028- Leia o nome da pessoa e imprima ele 15 vezes na tela
+
+ex029- Leia um número, depois calcule e mostre a tabuada.
+
+ex030- Leia dois números, calcule e informe a soma. Pergunte se deseja calcular novamente.
+
+ex031- Leia o nome da pessoa. Caso ela deixe em branco solicite para digitar novamente.
+
+ex032- Leia um número, calcule o fatorial deste número e mostre o resultado
