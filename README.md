@@ -36,3 +36,9 @@ ex014- Pergunte qual o valor da compra e a forma de pagamento, se for a vista d�
 ex015- Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 ● para homens: (72.7 * h) – 58;
 ● para mulheres: (62.1 * h) – 44.7.
+
+ex016- Crie um algoritmo que peça a altura e o peso de uma pessoa. Calcule o IMC e informe se ele está dentro do intervalo de 18,5 e 25. Considere a fórmula: IMC = peso / ( altura )²
+
+ex017- Solicite o nome, e-mail, rg e cpf da pessoa. Faça uma validação simples para verificar se todos os campos foram preenchidos.
+
+ex018- O IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. A fórmula é IMC = peso / ( altura )² Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua condição de acordo com a tabela abaixo.
