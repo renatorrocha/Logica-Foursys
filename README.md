@@ -45,3 +45,23 @@ ex018- O IMC – Índice de Massa Corporal é um critério da Organização Mund
 <p align="center">
   <img src="https://github.com/renatorrocha/Logica-Foursys/blob/main/Tabela-IMC.png" alt="Tabela de classificação do IMC"/>
 </p>
+
+ex019- Solicite um número de 1 a 12 e informe o mês escolhido por extenso.
+
+ex020- Solicite um número de 0 a 6 e informe o dia da semana por extenso.
+
+ex021- Solicite um animal e mostre em inglês. (Ex.: gato, cachorro, etc..)
+
+ex022- Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado. Código - Condição de pagamento - Desconto/Juros:
+● 1 - À vista em dinheiro ou cheque - 15% de desconto
+● 2 - À vista no cartão de crédito - 5% de desconto
+● 3 - Em duas vezes - sem desconto/juros
+● 4 - Em seis vezes - juros de 10%
+
+ex022-
+
+ex022-
+
+ex022-
+
+ex022-
