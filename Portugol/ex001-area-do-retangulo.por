@@ -9,17 +9,17 @@ programa
 		real b, h, area
 
 		// Leitura dos dados
-		escreva("Insira o valor da Base do retângulo")
+		escreva("Insira o valor da Base do retângulo: ")
 		leia(b)
 		
-		escreva("Insira o valor da altura do retângulo")
+		escreva("Insira o valor da altura do retângulo: ")
 		leia(h)
 
 		// Processamento
 		area = b * h
 
 		// Saida dos dados
-		escreva("A area é igual a ", area)
+		escreva("A area do retangulo é igual a ", area)
 	}
 }
 /* $$$ Portugol Studio $$$ 

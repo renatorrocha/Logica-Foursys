@@ -6,7 +6,7 @@ programa
 		// Programa para calcular a tabuada de 0 - 10 de qualquer numero inteiro - Renato Rocha
 
 		// Declaração das Variaveis
-		inteiro numero
+		real numero
 
 		// Leitura dos dados
 		escreva("Insira um numero para ver sua tabuada: ")
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 364; 
+ * @POSICAO-CURSOR = 160; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

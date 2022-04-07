@@ -18,7 +18,7 @@ programa
 		valorFinal = (qntCavalos * 4) * valorFerradura
 
 		// Saida dos dados
-		escreva("sera gasto R$",valorFinal, " Em ferraduras")
+		escreva("sera gasto R$",valorFinal, "0 em ferraduras")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -26,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 362; 
+ * @POSICAO-CURSOR = 480; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
