@@ -7,26 +7,44 @@ programa
 
 		// Declaração das Variaveis
 		cadeia nome, email, rg, cpf
+		logico validacao
 
-		// Leitura dos dados
+		// Leitura dos dados, Processamento e Saida dos dados
+		validacao = verdadeiro
 		escreva("Informe seu nome: ")
 		leia(nome)
+		se (nome == ""){
+			validacao = falso
+			escreva("Insira um nome valido.\n")
+		}
 
 		escreva("Informe seu email: ")
 		leia(email)
-
-		escreva("Informe seu rg: ")
-		leia(rg)
-
-		escreva("Informe seu cpf: ")
-		leia(cpf)
-
-		//Processamento e Saida dos dados
-		se(nome == "" ou email == "" ou rg == "" ou cpf == "") {
-			escreva("[ERRO] - Preencha todos os campos")
-		}senao {
-			escreva("Todos os campos foram preenchidos")
+		se (email == ""){
+			validacao = falso
+			escreva("Insira um email valido.\n")
 		}
+
+		escreva("Informe seu RG: ")
+		leia(rg)
+		se (rg == ""){
+			validacao = falso
+			escreva("Insira um RG valido.\n")
+		}
+
+		escreva("Informe seu CPF: ")
+		leia(cpf)
+		se (cpf == ""){
+			validacao = falso
+			escreva("Insira um CPF valido.\n")
+		}
+
+		se(validacao){
+			escreva("tudo certo")
+		}
+
+
+
 		
 		
 	}
@@ -36,7 +54,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 429; 
+ * @POSICAO-CURSOR = 124; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
